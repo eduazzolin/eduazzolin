@@ -3,5 +3,5 @@
 
 - 🎓 I'm a student in the **Systems Analysis and Development course at Senac.**
 - 🔭 I’m currently working as a **data engineer intern.**
-- 📙 I’m currently reading **Fundamentals of Data Engineering** by **Joe Reis** and **Matt Housley.** (It's very good!)
-- ⚡ Fun fact: **I prefer coding with the light theme...** Yeah.
+- 📚 I'm currently studying some more **advanced SQL** with Udemy.
+- ⚡ Fun fact: **I prefer coding with the light theme.**
